@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="tHello">Hello World !!!</string>
+    <string name="tbClick">Click</string>
+    <string name="message">Mensaje :)</string>
+    <string name="textAccion">Acción</string>
+    <string name="sriSwipe">Refresh</string>
+    <string name="lvList">List</string>
+    <string name="idCard">Lollipop</string>
+    <string name="descriptionCard">Esta es la version en la que se incluyo material design. Android Lollipop</string>
+    <string name="imCard">Titulo Card</string>
+    <string-array name="planets">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+    </string-array>
+</resources>
